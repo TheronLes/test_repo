@@ -1,1 +1,2 @@
 Line 1: Prod-Dev | v1.0.0 [Ok]
+Line 2: bug fixes are required before - non compliant color scheme [running Ok]
